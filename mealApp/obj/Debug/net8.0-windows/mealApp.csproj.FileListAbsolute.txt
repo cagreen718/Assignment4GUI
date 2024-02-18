@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\mealApp\bin\Debug\net8.0-windows\mealApp.exe
+C:\Users\user\source\repos\mealApp\bin\Debug\net8.0-windows\mealApp.deps.json
+C:\Users\user\source\repos\mealApp\bin\Debug\net8.0-windows\mealApp.runtimeconfig.json
+C:\Users\user\source\repos\mealApp\bin\Debug\net8.0-windows\mealApp.dll
+C:\Users\user\source\repos\mealApp\bin\Debug\net8.0-windows\mealApp.pdb
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.frmBurgers.resources
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.AssemblyInfo.cs
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.dll
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\refint\mealApp.dll
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.pdb
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\mealApp.genruntimeconfig.cache
+C:\Users\user\source\repos\mealApp\obj\Debug\net8.0-windows\ref\mealApp.dll
